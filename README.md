@@ -10,6 +10,7 @@ Olá, me chamo Wendell, nasci em São Paulo, SP no dia 17/06/2006, e sou um estu
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Linguagens
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
