@@ -30,11 +30,7 @@ Olá, me chamo Wendell, nasci em São Paulo, SP no dia 17/06/2006, e sou um estu
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-## Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wendell-dorta&show_icons=true&locale=pt-br&theme=midnight-purple)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendell-dorta&show_icons=true&locale=pt-br&theme=midnight-purple)
 
 ## Meu Portifolio
 ### Em criação
