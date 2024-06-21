@@ -1,7 +1,10 @@
 # Olá Mundo!
 ## Sobre mim
-Olá, me chamo Wendell, nasci em São Paulo, SP no dia 17/06/2006, e sou um estudante do 3º ano do ensino médio e curso o Técnico em Informática na instituição Senac Itaquera. , desde pequeno tenho interesses em coisas relacionadas a tecnologia, e atualmente estou estudando banco de dados, usando o MariaDB, e o bootcamp .NET Developer da DIO. Amo jogos, tendo como preferidos a triologia de Pokémon, a triologia Batman Arkham, FIFA(EAFC), Minecraft entre outros. Também amo animes, desenhos e filmes de heróis. Algumas das minhas principais características são a tímides de inicio a conhecer pessoas novas, e a curiosidade que acabo tendo em relação a coisas relacionadas a informática (o que me ajuda na maioria das vezes ao desenvolver projetos relacionados a informática).
+Olá, meu nome é Wendell e estou no último ano do ensino médio, cursando Técnico em Informática no Senac Itaquera, com o objetivo de ingressar no mercado de desenvolvimento de sistemas.
 
+Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento .NET
+
+Estou em constante busca por conhecimento e sempre aberto a novos desafios e oportunidades de aprendizado.
 ## Habilidades que estou desenvolvendo
 
 ### Linguagens de Marcação e Estilo
