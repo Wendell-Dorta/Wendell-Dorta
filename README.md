@@ -47,7 +47,7 @@ Estou em constante busca por conhecimento e sempre aberto a novos desafios e opo
 [![Perfil Alura SEDUC](https://img.shields.io/badge/-Meu%20Perfil%20Alura%20Seduc-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://cursos.alura.com.br/user/00001102887791SP)
 
 ## Conecte-se comigo:
-<a href="www.linkedin.com/in/wendell-dorta-302310273" target="_blank">
+<a href="https://www.linkedin.com/in/wendell-dorta-302310273/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/ws.dorta/" target="_blank">
