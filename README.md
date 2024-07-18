@@ -2,7 +2,7 @@
 ## Sobre mim
 Olá, meu nome é Wendell e estou no último ano do ensino médio, cursando Técnico em Informática no Senac Itaquera, com o objetivo de ingressar no mercado de desenvolvimento de sistemas.
 
-Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento .NET
+Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas.
 
 Estou em constante busca por conhecimento e sempre aberto a novos desafios e oportunidades de aprendizado.
 ## Habilidades que estou desenvolvendo
